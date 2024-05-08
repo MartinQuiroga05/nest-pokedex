@@ -17,3 +17,7 @@
     ```
     docker-compose up -d
     ```
+
+## Stack utilizado
+ * Mongo DB
+ * Nest
